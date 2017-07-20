@@ -77,3 +77,11 @@
     display: inline-block;
     margin: 5px;
 }
+#button_list{
+    text-align: center;
+    font-size: 20px;
+    display: inline-block;
+    background-color: blue;
+    margin-left: 25%;
+    border-radius: 5px;
+}
